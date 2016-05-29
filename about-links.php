@@ -2,18 +2,18 @@
 
 <hr size="2" width="100%" />
 
-Brant Kaake is a licensed and bonded general contractor with a diverse skill set. He has been our go-to fix-it guy at the studio for many years now.
+<a href="mailto:film43@yahoo.com" target="_blank">Brant Kaake</a> is a licensed and bonded general contractor with a diverse skill set. He has been our go-to fix-it guy at the studio for many years now.
 
 503-523-7807
 film43@yahoo.com
 
 <hr />
 
-<a title="The Effect of Yoga on General Health" href="http://yogaunioncwc.com/effect-yoga-general-health/" target="_blank">Vibrant Valley Farm</a> is a CSA (community-supported agriculture). This spring/summer they will provide the Yoga Union community an abundance of fresh vegetables and other yummy, healthy treats at an affordable price.
+<a href="http://www.vibrantvalleyfarm.com/" target="_blank">Vibrant Valley Farm</a> is a CSA (community-supported agriculture). This spring/summer they will provide the Yoga Union community an abundance of fresh vegetables and other yummy, healthy treats at an affordable price.
 
 <hr />
 
-<a href="http://www.facebook.com/PoorBoyPossibilities">Poor Boy Possibilities </a>LLC. has been helping Portland businesses create comprehensive and effective marketing strategies that involve the use of Social Media. A startup company with fresh, out-of-the-box ideas that are grounded in tried-and-true marketing techniques. They use promotional videos, websites, smart phones, location services, as well as manage social presences on Facebook, Twitter, LinkedIn...etc. They provide real-time CRM and monitor your brands online presence and reviews.
+<a href="mailto:PoorBoyPossibilities@gmail.com" target="_blank">Poor Boy Possibilities </a>LLC. has been helping Portland businesses create comprehensive and effective marketing strategies that involve the use of Social Media. A startup company with fresh, out-of-the-box ideas that are grounded in tried-and-true marketing techniques. They use promotional videos, websites, smart phones, location services, as well as manage social presences on Facebook, Twitter, LinkedIn...etc. They provide real-time CRM and monitor your brands online presence and reviews.
 
 Jeremy D. Schaffer
 CEO/Founder
@@ -21,8 +21,8 @@ Poor Boy Possibilities LLC.
 2737 SE 26th Ave.
 Portland OR, 97214
 503-875-6166
-<a href="mailto:PoorBoyPossibilities@gmail.com">PoorBoyPossibilities@gmail.com</a>
-<a title="Poorboy Possibilities" href="http://facebook.com/PoorBoyPossibilities">Facebook.com/PoorBoyPossibilities</a>
+<a href="mailto:PoorBoyPossibilities@gmail.com" target="_blank">PoorBoyPossibilities@gmail.com</a>
+
 
 <hr size="2" width="100%" />
 
@@ -36,8 +36,7 @@ fax: 503-217-6242</p>
 
 
 <hr size="2" width="100%" />
-<p align="left"><a href="http://mttaborchiropractic.com/" target="_blank">Mt. Tabor Chiropractic</a> and Yoga Union are neighboring health centers. <a href="http://mttaborchiropractic.com/" target="_blank">Steve Kingston</a> and his wife JoAnn have been our friends, our students, our mentors, and our chiropractors. Go see them for injury treatment, dietary advice, or a smooth adjustment.<a href="http://mttaborchiropractic.com/" target="_blank">
-</a></p>
+<p align="left"><a href="http://mttaborchiropractic.com/" target="_blank">Mt. Tabor Chiropractic</a> and Yoga Union are neighboring health centers. Steve Kingston and his wife JoAnn have been our friends, our students, our mentors, and our chiropractors. Go see them for injury treatment, dietary advice, or a smooth adjustment.</p>
 <p align="left"><a href="http://mttaborchiropractic.com/" target="_blank">Steve M. Kingston, D.C.</a>
 4351 SE Hawthorne Blvd.
 Portland, OR 97215
@@ -52,12 +51,11 @@ Portland, OR 97215
 
 Photographers We've Worked With:
 <ul>
-    <li><a href="http://www.lisaskaff.com/">Lisa Skaff</a> is a gifted photographer and a joy to work with. She operates with a simplicity that makes communication enjoyable. Her work is creative and fun, with a sweet and soft style.
-<a href="http://www.lisaskaff.com/">www.lisaskaff.com</a></li>
-    <li><a href="jaineedial@gmail.com" target="_blank">Jainee Dial</a></li>
-    <li><a>Ben Moon</a></li>
-    <li><a title="Mirifoto photography" href="http://www.mirifoto.com/">Mififoto</a> photography company</li>
-    <li><a href="http://christiancolumbres.com">Christian Columbres</a></li>
+ 	<li><a href="http://www.lisaskaff.com/" target="_blank">Lisa Skaff</a> is a gifted photographer and a joy to work with. She operates with a simplicity that makes communication enjoyable. Her work is creative and fun, with a sweet and soft style.</li>
+ 	<li><a href="mailto:jaineedial@gmail.com" target="_blank">Jainee Dial</a></li>
+ 	<li><a>Ben Moon</a></li>
+ 	<li><a title="Mirifoto photography" href="http://www.mirifoto.com/" target="_blank">Mififoto</a> photography company</li>
+ 	<li><a href="http://christiancolumbres.com" target="_blank">Christian Columbres</a></li>
 </ul>
 
 <hr size="2" width="100%" />
@@ -79,7 +77,7 @@ apashousebedandbreakfast@gmail.com
 
 <hr />
 
-<a href="http://www.opentograce.com/">Sianna Sherman</a> is an internationally recognized <a href="http://www.anusara.com/">Anusara </a>Yoga teacher who delights in sharing these teachings with poetry, stories, and expressive insight. We hold space for her at the heart of the Yoga Union community as our true teacher, as our beloved friend, and as a source of what seems to us like an endless stream of divine insight. Please take every chance you get to be in the presence of this sweet spirit.
+<a href="http://www.opentograce.com/" target="_blank">Sianna Sherman</a> is an internationally recognized <a href="http://www.anusara.com/" target="_blank">Anusara </a>Yoga teacher who delights in sharing these teachings with poetry, stories, and expressive insight. We hold space for her at the heart of the Yoga Union community as our true teacher, as our beloved friend, and as a source of what seems to us like an endless stream of divine insight. Please take every chance you get to be in the presence of this sweet spirit.
 
 <a title="Sianna Sherman Website" href="http://www.opentograce.com/" target="_blank">www.opentograce.com</a>
 <a href="http://www.opentograce.com/contact.cfm" target="_blank"> Contact Sianna</a>
