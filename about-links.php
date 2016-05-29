@@ -5,7 +5,7 @@
 <a href="mailto:film43@yahoo.com" target="_blank">Brant Kaake</a> is a licensed and bonded general contractor with a diverse skill set. He has been our go-to fix-it guy at the studio for many years now.
 
 503-523-7807
-film43@yahoo.com
+<a href="mailto:film43@yahoo.com" target="_blank">film43@yahoo.com</a>
 
 <hr />
 
@@ -53,7 +53,7 @@ Photographers We've Worked With:
 <ul>
  	<li><a href="http://www.lisaskaff.com/" target="_blank">Lisa Skaff</a> is a gifted photographer and a joy to work with. She operates with a simplicity that makes communication enjoyable. Her work is creative and fun, with a sweet and soft style.</li>
  	<li><a href="mailto:jaineedial@gmail.com" target="_blank">Jainee Dial</a></li>
- 	<li><a>Ben Moon</a></li>
+ 	<li>Ben Moon</li>
  	<li><a title="Mirifoto photography" href="http://www.mirifoto.com/" target="_blank">Mififoto</a> photography company</li>
  	<li><a href="http://christiancolumbres.com" target="_blank">Christian Columbres</a></li>
 </ul>
@@ -72,14 +72,14 @@ Our website was built by <a href="http://www.studiok40.com" target="_blank">Gray
 Apas House is a cozy bed and breakfast located in relatively close proximity to Yoga Union. Lisa Skaff will go the extra mile to accommodate even the most selective yogi standards with home-grown, sustainably harvested meals and organic bedding for all. If your in need of a place to stay while your in town for a workshop or training, check it out.
 
 Apas House
-<a title="Apas House Bed and Breakfast" href="http://www.apashouse.com/" target="_blank">http://www.apashouse.com/</a>
+<a title="Apas House Bed and Breakfast" href="http://www.apashouse.com/" target="_blank">www.apashouse.com</a>
 apashousebedandbreakfast@gmail.com
 
 <hr />
 
-<a href="http://www.opentograce.com/" target="_blank">Sianna Sherman</a> is an internationally recognized <a href="http://www.anusara.com/" target="_blank">Anusara </a>Yoga teacher who delights in sharing these teachings with poetry, stories, and expressive insight. We hold space for her at the heart of the Yoga Union community as our true teacher, as our beloved friend, and as a source of what seems to us like an endless stream of divine insight. Please take every chance you get to be in the presence of this sweet spirit.
+<a href="http://www.opentograce.com/" target="_blank">Sianna Sherman</a> is an internationally recognized <a href="http://www.anusarayoga.com/" target="_blank">Anusara </a>Yoga teacher who delights in sharing these teachings with poetry, stories, and expressive insight. We hold space for her at the heart of the Yoga Union community as our true teacher, as our beloved friend, and as a source of what seems to us like an endless stream of divine insight. Please take every chance you get to be in the presence of this sweet spirit.
 
 <a title="Sianna Sherman Website" href="http://www.opentograce.com/" target="_blank">www.opentograce.com</a>
-<a href="http://www.opentograce.com/contact.cfm" target="_blank"> Contact Sianna</a>
+<a href="http://www.siannasherman.com/contact" target="_blank"> Contact Sianna</a>
 
 &nbsp;
