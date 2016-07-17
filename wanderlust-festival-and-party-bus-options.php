@@ -15,7 +15,7 @@ The bus will depart from the Yoga Union July 27th at 8:00 am, and return by 8:00
 <p style="text-align:center;"><strong><a href="http://r20.rs6.net/tn.jsp?llr=suvogrcab&amp;et=1104956663248&amp;s=8052&amp;e=001mmi0S93t7XRRZFPzacVRMJw7O8wzcqEU0hyOZ2GjYWeAjMM-ffzlZwECIy6023R-VI39lZcE6F8Pbk3qvh1oTexwRTzMuyl_ZmKnxYrlNrBADRV9d9qMyZfAHPRQN0HlEs8CEJEO58_TVgs2MKKNpmi9bdJrm88qqXrZLAlSVCs7TKGEoJ4dtCTVaFnp0EvQ" target="_blank">PURCHASE NOW</a></strong></p>
 <p style="text-align:center;"><a href="http://r20.rs6.net/tn.jsp?llr=suvogrcab&amp;et=1104956663248&amp;s=8052&amp;e=001mmi0S93t7XTATrNJ-CirqCI87rOAe-sMwCG7HyLP5AQmRp0zRWVkhxjNQF0d7sjfW2yLFNyDHc9asRtjn7W2pYQ6w16w1UFQqaFe3AssfY77MDYTM6-Xm6YzT1vMXP_hpT1hTbub_P4=" target="_blank">Check out the Wanderlust Website.</a></p>
 <p style="text-align:center;">Contact Natalie Gildersleeve for details or to for more information:</p>
-<p style="text-align:center;"><a href="mailto:nataliegildersleeve@gmail.com" target="_blank">nataliegildersleeve@gmail.com</a> <a href="503-260-4872" target="_blank">503-260-4872</a></p>
+<p style="text-align:center;"><a href="mailto:nataliegildersleeve@gmail.com" target="_blank">nataliegildersleeve@gmail.com</a> 503-260-4872</p>
 <p style="text-align:center;"><a href="http://yogaunioncwc.com/wp-content/uploads/2011/03/89.jpeg"><img class="aligncenter size-full wp-image-242" title="89" src="http://yogaunioncwc.com/wp-content/uploads/2011/03/89.jpeg" alt="" width="500" height="410" /></a><strong>Thank you for your continued support!</strong>
 
 <strong>Sincerely,</strong>
